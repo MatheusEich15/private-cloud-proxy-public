@@ -192,3 +192,5 @@ exige navegação HTTP pelo proxy, HTTPS real por CONNECT para `https://example.
 com a validação TLS normal do Chromium e falha com o proxy parado. A conclusão
 desses testes nativos depende de executá-los em Windows com o seu pacote local; eles não
 comprovam todas as funcionalidades de sites.
+#   p r i v a t e - c l o u d - p r o x y - p u b l i c  
+ 
